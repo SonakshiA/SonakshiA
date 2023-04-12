@@ -8,6 +8,9 @@ I'm Sonakshi Arora, a 2nd year CSE student at Manipal University Jaipur, India. 
 - 📫 How to reach me: www.linkedin.com/in/arorasonakshi
 - ⚡ Fun fact: I love cold french fries 🍟
 - 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
+- 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
+
+
 ---
 
 ### 🌟 My Tech Stack :
