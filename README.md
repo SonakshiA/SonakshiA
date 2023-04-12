@@ -6,7 +6,7 @@ I'm Sonakshi Arora, a 2nd year CSE student at Manipal University Jaipur, India. 
 - 🔭 I’m currently working on my DSA 
 - 💬 Ask me about Android Dev 
 - 📫 How to reach me: www.linkedin.com/in/arorasonakshi
-- ⚡ Fun fact: I love cold french fries 🍟
+- ⚡ Fun fact: I love cold french fries 🍟 and I'm an Agatha Christie buff 📕
 - 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
 - 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
 - 🪴 I'm planning to learn: Data Analytics
@@ -37,6 +37,23 @@ I'm Sonakshi Arora, a 2nd year CSE student at Manipal University Jaipur, India. 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonakshiA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🪧 My favourite projects:
+
+- WORDICT: Being an avid reader, I developed this app to allow readers to store a new word they encounter, its synonyms, usage in a sentence and where they encountered the word.
+
+- QuizApp: I wanted to incorporate APIs in my application, so I fetched results from The Trivia App API and made a quiz game.
+
+- WhatsappUI: I coded this project to get my hands dirty on Jetpack Compose.
+
+- RedditUI: I coded Reddit's UI using Jetpack Compose.
+
+- IEEE WIE MUJ's website: As the Head of Technical Projects, I designed and developed a website for IEEE's Women in Engineering society in my university.
+
+- Mumbae: This was the first of many ambitious projects I worked on to sharpen my dev skills. Mumbae is a read-only app that shows popular places in Mumbai, famous shopping outlets, eateries and important emergency contacts.
+
 
 ---
 
