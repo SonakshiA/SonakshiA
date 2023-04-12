@@ -42,3 +42,9 @@ Here are some ideas to get you started:
 
 ![Sonakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonakshiA&theme=dark&show_icons=true)
 
+---
+
+### :writing_hand: Blog Posts :
+
+1. [Starting with a Personal Project](https://medium.com/@ieee.wiemuj/starting-with-a-personal-project-d0781fc0b6bf)
+
