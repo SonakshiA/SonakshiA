@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 
 ---
 
+![Sonakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonakshiA&theme=dark&show_icons=true)
+
