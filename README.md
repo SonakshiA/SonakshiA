@@ -34,9 +34,6 @@ I'm Sonakshi Arora, a 2nd year CSE student at Manipal University Jaipur, India. 
 
 ---
 
-![Sonakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonakshiA&theme=dark&show_icons=true)
-
----
 
 ### :writing_hand: Blog Posts :
 
