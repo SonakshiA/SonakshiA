@@ -40,9 +40,9 @@ I'm Sonakshi Arora, a 2nd year CSE student at Manipal University Jaipur, India. 
 
 ---
 
-### 🪧 My favourite projects:
+### 🪧 My favourite projects :
 
-- WORDICT: Being an avid reader, I developed this app to allow readers to store a new word they encounter, its synonyms, usage in a sentence and where they encountered the word.
+- Wordict: Being an avid reader, I developed this app to allow readers to store a new word they encounter, its synonyms, usage in a sentence and where they encountered the word.
 
 - QuizApp: I wanted to incorporate APIs in my application, so I fetched results from The Trivia App API and made a quiz game.
 
