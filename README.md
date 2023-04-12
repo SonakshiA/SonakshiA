@@ -7,8 +7,7 @@ I'm Sonakshi Arora, a 2nd year CSE student at Manipal University Jaipur, India. 
 - 💬 Ask me about Android Dev 
 - 📫 How to reach me: www.linkedin.com/in/arorasonakshi
 - ⚡ Fun fact: I love cold french fries 🍟
-- 🕸️ Check out this website I did for IEEE WIE MUJ: wie.ieeemuj.com
-
+- 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
 ---
 
 ### 🌟 My Tech Stack :
