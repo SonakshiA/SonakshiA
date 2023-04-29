@@ -6,10 +6,11 @@ I'm Sonakshi Arora, a 2nd year CSE student at Manipal University Jaipur, India. 
 - 🔭 I’m currently working on my DSA 
 - 💬 Ask me about Android Dev 
 - 📫 How to reach me: www.linkedin.com/in/arorasonakshi
-- ⚡ Fun facts about me: I love cold french fries 🍟, I'm an Agatha Christie buff 📕 and I love exploring new cafés in Jaipur 😋
+- ⚡ Fun facts about me: I cold french fries with mayo 🍟, I'm an Agatha Christie buff 📕 and I love exploring new cafés in Jaipur 😋
 - 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
 - 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
-- 🪴 I'm planning to learn: Data Analytics
+- 🪴 I'm currently learning: Node.js
+- 📝 My Resume: [Sonakshi's CV](https://drive.google.com/file/d/1zdkyif1n2SCaApbYGLWJEpWXW-3gkl2m/view?usp=share_link)
 
 
 ---
