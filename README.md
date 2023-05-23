@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-I'm Sonakshi Arora, a 2nd year CSE student at Manipal University Jaipur, India. I'm passionate about mobile development and currently serve as the Head of Technical Projects at IEEE WIE MUJ 👩‍💻
+I'm Sonakshi Arora, a 2nd year CSE student at Manipal University Jaipur, India. I'm passionate about mobile development and currently serve as the Chairperson at IEEE WIE MUJ 👩‍💻
 
 - 💚 I'm passionate about: Android Development
 - 🔭 I’m currently working on my DSA 
