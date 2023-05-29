@@ -10,7 +10,7 @@ I'm Sonakshi Arora, a 2nd year CSE student at Manipal University Jaipur, India. 
 - 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
 - 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
 - 🪴 I'm currently learning: Node.js
-- 📝 My Resume: [Sonakshi's CV](https://drive.google.com/file/d/1iCZ--YGvi6QO5hONZPa5gEvd2wF3Howv/view)
+- 📝 My Resume: [Sonakshi's CV](https://drive.google.com/file/d/1iCZ--YGvi6QO5hONZPa5gEvd2wF3Howv/view?usp=sharing)
 
 
 ---
