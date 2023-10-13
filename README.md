@@ -2,11 +2,7 @@
 
 I'm Sonakshi Arora, a 3rd year CSE student at Manipal University Jaipur, India. I'm passionate about mobile development and currently serve as the Chairperson at IEEE WIE MUJ 👩‍💻
 
-- 💚 I'm passionate about: Android Development
-- 🔭 I’m currently working on my DSA 
-- 💬 Ask me about Android Dev 
 - 📫 How to reach me: www.linkedin.com/in/arorasonakshi
-- ⚡ Fun facts about me: I love french fries with mayo 🍟, I'm an Agatha Christie buff 📕 and I love exploring new cafés in Jaipur 😋
 - 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
 - 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
 - 📝 My Resume: [Sonakshi's CV](https://drive.google.com/file/d/1KO6YiAR7Ui-nogqUpz-c2JIb-oPq8Vtm/view?usp=sharing)
