@@ -56,4 +56,6 @@ I'm Sonakshi Arora, a 3rd year CSE student at Manipal University Jaipur, India. 
 ### :writing_hand: Blog Posts :
 
 - [Starting with a Personal Project](https://medium.com/@ieee.wiemuj/starting-with-a-personal-project-d0781fc0b6bf)
+- [Demystifying Kotlin Scope Functions](https://medium.com/@ieee.wiemuj/demystifying-kotlin-scope-functions-491beb6b0a0f)
+- [Building a Handwritten Digit Classifier using Convolutional Neural Networks](https://medium.com/@sonakshi.arora02/building-a-handwritten-digit-classifier-using-convolutional-neural-networks-0146a3c9cfb0)
 
