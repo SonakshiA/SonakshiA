@@ -1,11 +1,11 @@
 ### Hello, world! 👋
 
-I'm Sonakshi Arora, a 3rd year CSE student at Manipal University Jaipur, India. I'm passionate about mobile development and currently serve as the Chairperson at IEEE WIE MUJ 👩‍💻
+I'm Sonakshi Arora, a 4th year CSE student at Manipal University Jaipur, India. I'm passionate about mobile development and currently interning at Microsoft India 👩‍💻
 
 - 📫 How to reach me: www.linkedin.com/in/arorasonakshi
 - 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
 - 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
-- 📝 My Resume: [Sonakshi's CV](https://drive.google.com/file/d/1KO6YiAR7Ui-nogqUpz-c2JIb-oPq8Vtm/view?usp=sharing)
+- 📝 My Resume: [Sonakshi's CV](https://drive.google.com/file/d/16bYSm3LBQV0vhnyhDEiWPCeTbm3OAIEJ/view?usp=sharing)
 
 
 ---
