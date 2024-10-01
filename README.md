@@ -1,11 +1,13 @@
 ### Hello, world! 👋
 
-I'm Sonakshi Arora, a 4th year CSE student at Manipal University Jaipur, India. I'm passionate about mobile development and currently interning at Microsoft India 👩‍💻
+I'm Sonakshi Arora, a 4th year CSE student at Manipal University Jaipur, India. I'm passionate about playing around with technology and developing applications for social good! My interests include Human-Computer Interaction, Digital Accessibility and creating solutions for children with learning disabilities. I had the privilege to intern at Microsoft in 2024 and will be joining Amazon as a winter intern in 2025 👩‍💻
 
 - 📫 How to reach me: www.linkedin.com/in/arorasonakshi
-- 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
-- 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
 - 📝 My Resume: [Sonakshi's CV](https://drive.google.com/file/d/1_-k4ym6slVDoPtaIfEx9LiMjo8GMd75G/view?usp=sharing)
+- 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
+- ✍️ Find me on Medium: [Sonakshi's Medium](https://medium.com/@sonakshi.arora02)
+- 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
+- ☘️ Currently I am: Playing around with HuggingFace models!
 
 
 ---
@@ -31,29 +33,5 @@ I'm Sonakshi Arora, a 4th year CSE student at Manipal University Jaipur, India. 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SonakshiA&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
----
 
-### 🪧 My favourite projects :
-
-- Wordict: Being an avid reader, I developed this app to allow readers to store a new word they encounter, its synonyms, usage in a sentence and where they encountered the word.
-
-- QuizApp: I wanted to incorporate APIs in my application, so I fetched results from The Trivia App API and made a quiz game.
-
-- WhatsappUI: I coded this project to get my hands dirty on Jetpack Compose.
-
-- RedditUI: I coded Reddit's UI using Jetpack Compose.
-
-- IEEE WIE MUJ's website: As the Head of Technical Projects, I designed and developed a website for IEEE's Women in Engineering society in my university.
-
-- Mumbae: This was the first of many ambitious projects I worked on to sharpen my dev skills. Mumbae is a read-only app that shows popular places in Mumbai, famous shopping outlets, eateries and important emergency contacts.
-
-
----
-
-
-### :writing_hand: Blog Posts :
-
-- [Starting with a Personal Project](https://medium.com/@ieee.wiemuj/starting-with-a-personal-project-d0781fc0b6bf)
-- [Demystifying Kotlin Scope Functions](https://medium.com/@ieee.wiemuj/demystifying-kotlin-scope-functions-491beb6b0a0f)
-- [Building a Handwritten Digit Classifier using Convolutional Neural Networks](https://medium.com/@sonakshi.arora02/building-a-handwritten-digit-classifier-using-convolutional-neural-networks-0146a3c9cfb0)
 
