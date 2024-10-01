@@ -8,6 +8,7 @@ I'm Sonakshi Arora, a 4th year CSE student at Manipal University Jaipur, India. 
 - ✍️ Find me on Medium: [Sonakshi's Medium](https://medium.com/@sonakshi.arora02)
 - 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
 - ☘️ Currently I am: Playing around with HuggingFace models!
+- 📕 My hobbies are: Reading (I am hooked to the 'Before the Coffee Gets Cold' series by Toshikazu Kawaguchi) and Urban Sketching!
 
 
 ---
