@@ -3,7 +3,7 @@
 I'm Sonakshi Arora, a 4th year CSE student at Manipal University Jaipur, India. I'm passionate about playing around with technology and developing applications for social good! My interests include Human-Computer Interaction, Digital Accessibility and creating solutions for children with learning disabilities. I had the privilege to intern at Microsoft in 2024 and will be joining Amazon as a winter intern in 2025 👩‍💻
 
 - 📫 How to reach me: www.linkedin.com/in/arorasonakshi
-- 📝 My Resume: [Sonakshi's CV](https://drive.google.com/file/d/1_-k4ym6slVDoPtaIfEx9LiMjo8GMd75G/view?usp=sharing)
+- 📝 My Resume: [Sonakshi's CV](https://drive.google.com/file/d/1CDuJUZUKNddLVykQtCbSEg35PoeIcgYq/view?usp=sharing)
 - 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
 - ✍️ Find me on Medium: [Sonakshi's Medium](https://medium.com/@sonakshi.arora02)
 - 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
