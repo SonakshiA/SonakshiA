@@ -4,7 +4,6 @@ I'm Sonakshi Arora, a 4th year CSE student at Manipal University Jaipur, India. 
 
 - 📫 How to reach me: www.linkedin.com/in/arorasonakshi
 - 📝 My Resume: [Sonakshi's CV](https://drive.google.com/file/d/1CDuJUZUKNddLVykQtCbSEg35PoeIcgYq/view?usp=sharing)
-- 🕸️ Check out this website I did for IEEE WIE MUJ: [IEEE WIE MUJ](https://wie.ieeemuj.com/)
 - ✍️ Find me on Medium: [Sonakshi's Medium](https://medium.com/@sonakshi.arora02)
 - 🤓 Find me on Leetcode: [Sonakshi's Leetcode](https://leetcode.com/SonakshiA/)
 - ☘️ Currently I am: Playing around with HuggingFace models!
