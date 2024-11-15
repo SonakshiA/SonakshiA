@@ -28,10 +28,7 @@ I'm Sonakshi Arora, a 4th year CSE student at Manipal University Jaipur, India. 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="50"/>&nbsp;
 </div>
 
----
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SonakshiA&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
